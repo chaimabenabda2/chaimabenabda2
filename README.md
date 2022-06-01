@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chaima</h1>
-<h3 align="center">A passionate data scientest from Tunisia</h3>
+<h3 align="center">A passionate data scientist from Tunisia</h3>
 
 <h3 align="left">Connect with me: chaimabenabdallah28@gmail.com</h3>
 <p align="left">
