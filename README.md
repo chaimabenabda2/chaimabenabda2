@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Data+Science+Student+!+%F0%9F%91%8B;Nice+to+meet+you!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Data+Science+Student+!+%F0%9F%91%8B;Nice+to+meet+you!" alt="Typing SVG" /></a>
 <h1 align="center">Hi,I'm Chaima Ben Abdallah 👋</h1>
 <h3 align="center">A passionate data scientist from Tunisia</h3>
 
